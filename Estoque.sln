@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32210.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estoque.Tests", "Estoque.Tests\Estoque.Tests.csproj", "{304CAFEB-D915-4D5D-AEDC-1B66E34AAC9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estoque.Domain", "Estoque.Domain\Estoque.Domain.csproj", "{D81E2045-75D1-47F4-8B40-D16BE1504564}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{304CAFEB-D915-4D5D-AEDC-1B66E34AAC9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{304CAFEB-D915-4D5D-AEDC-1B66E34AAC9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{304CAFEB-D915-4D5D-AEDC-1B66E34AAC9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{304CAFEB-D915-4D5D-AEDC-1B66E34AAC9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D81E2045-75D1-47F4-8B40-D16BE1504564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D81E2045-75D1-47F4-8B40-D16BE1504564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D81E2045-75D1-47F4-8B40-D16BE1504564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D81E2045-75D1-47F4-8B40-D16BE1504564}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3A91D84-CCF7-434F-96B0-BB8650CBE289}
+	EndGlobalSection
+EndGlobal
